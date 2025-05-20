@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh Desai</h1>
 
 <p align="center">
-  🎓 Student at Nirma University<br>
-  💻 Tech Enthusiast | Web Developer<br>
-  📬 mahesh.desai.work@gmail.com
+  🎓 Student at Nirma University &nbsp;|&nbsp; 💻 Tech Enthusiast & Web Developer &nbsp;|&nbsp; 📬 mahesh.desai.work@gmail.com
 </p>
+
 
 ---
 
@@ -34,8 +33,17 @@
       <img 
         src="https://leetcard.jacoblin.cool/mahesh_desai?theme=dark&font=baloo" 
         alt="LeetCode Stats" 
-        width="320px" 
+        width="480px"
       />
     </td>
   </tr>
 </table>
+
+## 🚀 Featured Projects
+
+- 🔗 [URL Shortener](https://github.com/mahesh-desai-10/url-shortner.git) – A simple and efficient URL shortening service built with Node.js and MongoDB.
+
+---
+
+⭐️ If you like what I do, give me a star or connect on LinkedIn!
+
